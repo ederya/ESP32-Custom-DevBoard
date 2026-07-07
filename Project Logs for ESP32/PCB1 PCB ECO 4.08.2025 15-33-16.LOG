@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetJ3_1 Pin=RL1-NC
+Removed Pin From Net: NetName=NetJ3_3 Pin=RL1-NO
+Removed Pin From Net: NetName=NetJ4_1 Pin=RL2-NC
+Removed Pin From Net: NetName=NetJ4_3 Pin=RL2-NO
+Added Pin To Net: NetName=NetJ3_3 Pin=RL1-NC
+Added Pin To Net: NetName=NetJ3_1 Pin=RL1-NO
+Added Pin To Net: NetName=NetJ4_3 Pin=RL2-NC
+Added Pin To Net: NetName=NetJ4_1 Pin=RL2-NO
+Added Member To Class: ClassName=Com Member=Component U2 CH340

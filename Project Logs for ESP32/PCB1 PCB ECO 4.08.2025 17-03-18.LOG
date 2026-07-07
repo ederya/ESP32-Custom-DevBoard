@@ -1,0 +1,112 @@
+Removed Pin From Net: NetName=+5V Pin=C3-2
+Removed Pin From Net: NetName=+5V Pin=C9-2
+Removed Pin From Net: NetName=+5V Pin=C11-2
+Removed Pin From Net: NetName=+5V Pin=IC2-3
+Removed Pin From Net: NetName=+5V Pin=J6-A4B9
+Removed Pin From Net: NetName=+5V Pin=J6-B4A9
+Removed Pin From Net: NetName=+5V Pin=LD2-2
+Removed Pin From Net: NetName=+5V Pin=U2-16
+Added Component: Designator=D4(DIOM5127X229N)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bonding"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "DO-214AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "2.29mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "15.07.2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SS16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\SS16.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "23.08.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "VISHAY GENERAL SEMICONDUCTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SS16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DO-214-AC/SMA Diode, Molded Body; 5.10mm L X 2.67mm W X 2.29mm H, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Surface Mount Schottky Barrier Rectifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SS16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "60V"; VariantName = "[No Variations]"
+Added Component: Designator=D5(DIOM5127X229N)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bonding"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "DO-214AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "2.29mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "15.07.2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SS16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\SS16.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "23.08.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "VISHAY GENERAL SEMICONDUCTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SS16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DO-214-AC/SMA Diode, Molded Body; 5.10mm L X 2.67mm W X 2.29mm H, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Surface Mount Schottky Barrier Rectifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SS16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "60V"; VariantName = "[No Variations]"
+Added Component: Designator=D6(DIOM5127X229N)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JLC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bonding"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Case"; Value = "DO-214AC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "2.29mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "15.07.2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device"; Value = "SS16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\SS16.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "23.08.2010"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "VISHAY GENERAL SEMICONDUCTOR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "SS16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DO-214-AC/SMA Diode, Molded Body; 5.10mm L X 2.67mm W X 2.29mm H, IPC Medium Density"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "Surface Mount Schottky Barrier Rectifier"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "SS16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power"; Value = "1A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "60V"; VariantName = "[No Variations]"
+Added Component: Designator=IC3(USBC6)
+Added Pin To Net: NetName=+12V Pin=C6-1
+Added Pin To Net: NetName=+12V Pin=C7-2
+Added Pin To Net: NetName=+5V Pin=D4-2
+Added Pin To Net: NetName=+12V Pin=D5-1
+Added Pin To Net: NetName=+12V Pin=IC1-6
+Added Pin To Net: NetName=USB_D+ Pin=IC3-1
+Added Pin To Net: NetName=GND Pin=IC3-2
+Added Pin To Net: NetName=USB_D- Pin=IC3-3
+Added Pin To Net: NetName=USB_D- Pin=IC3-4
+Added Pin To Net: NetName=USB_D+ Pin=IC3-6
+Added Pin To Net: NetName=+12V Pin=R9-1
+Change Net Name : Old Net Name=+5V New Net Name=NetC8_2
+Added Pin To Net: NetName=+5V Pin=C3-2
+Added Pin To Net: NetName=+5V Pin=C9-2
+Added Pin To Net: NetName=+5V Pin=D4-1
+Added Pin To Net: NetName=+5V Pin=D6-1
+Added Pin To Net: NetName=+5V Pin=LD2-2
+Added Pin To Net: NetName=+5V Pin=U2-16
+Added Pin To Net: NetName=+5V Pin=IC2-3
+Added Pin To Net: NetName=+5V Pin=IC3-5
+Added Net: Name=+5V
+Added Pin To Net: NetName=NetC11_2 Pin=C11-2
+Added Pin To Net: NetName=NetC11_2 Pin=D6-2
+Added Pin To Net: NetName=NetC11_2 Pin=J6-A4B9
+Added Pin To Net: NetName=NetC11_2 Pin=J6-B4A9
+Added Net: Name=NetC11_2
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=J5-3
+Added Net: Name=NetD5_2
+Added Member To Class: ClassName=Power Member=Component D4 SS16
+Added Member To Class: ClassName=Power Member=Component D5 SS16
+Added Member To Class: ClassName=Com Member=Component D6 SS16
+Added Member To Class: ClassName=Com Member=Component IC3 USBLC6
+Added Member To Class: ClassName=Core Member=Component RL1 RELAY-PR13-12V-450-1C

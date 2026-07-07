@@ -1,0 +1,54 @@
+Added Component: Designator=J1(PHOENIX_1715789)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "13.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "25.02.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\PHOENIX_1715789.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "25.02.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PHOENIX CONTACT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1715789 (MKDS 1,5/8-5,08)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "17.5A, 400V, Terminal Block, Pitch 5.08mm, 8 Positions, Screw Connection"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PHOENIX_1715789"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "None"; VariantName = "[No Variations]"
+Added Component: Designator=J2(PHOENIX_1715789)
+Add component (AddParameter): Name = "Author"; Value = "CERN DEM JMW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Component Type"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentHeight"; Value = "13.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "CreateDate"; Value = "25.02.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "HelpURL"; Value = "\\cern.ch\dfs\Applications\Altium\Datasheets\PHOENIX_1715789.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "25.02.2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "PHOENIX CONTACT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1715789 (MKDS 1,5/8-5,08)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounted"; Value = "Yes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Description"; Value = "17.5A, 400V, Terminal Block, Pitch 5.08mm, 8 Positions, Screw Connection"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "PHOENIX_1715789"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pin Count"; Value = "8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PressFit"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Sense"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Socket"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Status"; Value = "None"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=IO2 Pin=J1-1
+Added Pin To Net: NetName=IO4 Pin=J1-2
+Added Pin To Net: NetName=IO5 Pin=J1-3
+Added Pin To Net: NetName=IO12 Pin=J1-4
+Added Pin To Net: NetName=IO13 Pin=J1-5
+Added Pin To Net: NetName=IO14 Pin=J1-6
+Added Pin To Net: NetName=IO15 Pin=J1-7
+Added Pin To Net: NetName=IO16 Pin=J1-8
+Added Pin To Net: NetName=IO17 Pin=J2-1
+Added Pin To Net: NetName=IO18 Pin=J2-2
+Added Pin To Net: NetName=IO19 Pin=J2-3
+Added Pin To Net: NetName=IO21 Pin=J2-4
+Added Pin To Net: NetName=IO22 Pin=J2-5
+Added Pin To Net: NetName=IO23 Pin=J2-6
+Added Pin To Net: NetName=IO27 Pin=J2-7
+Added Pin To Net: NetName=IO32 Pin=J2-8
+Added Member To Class: ClassName=Core Member=Component J1
+Added Member To Class: ClassName=Core Member=Component J2
