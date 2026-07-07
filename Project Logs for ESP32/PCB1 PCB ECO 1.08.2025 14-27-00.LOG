@@ -1,6 +1,0 @@
-Added Component: Designator=OLED1(OLED096)
-Added Pin To Net: NetName=GND Pin=OLED1-1
-Added Pin To Net: NetName=+3V3 Pin=OLED1-2
-Added Pin To Net: NetName=SCL Pin=OLED1-3
-Added Pin To Net: NetName=SDA Pin=OLED1-4
-Added Member To Class: ClassName=Core Member=Component OLED1 OLED_096

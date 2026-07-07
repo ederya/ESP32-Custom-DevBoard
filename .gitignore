@@ -1,0 +1,12 @@
+# Altium Designer Cache and Log Files
+History/
+__Previews/
+Project Logs*/
+
+# User-Specific and Workspace Files
+*.DsnWrk
+*.PrjPcbStructure
+
+# Altium Auto-Generated HTML Reports
+*.htm
+*.html
